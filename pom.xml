@@ -4,15 +4,13 @@
   <artifactId>ProjectClass</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-<dependencies>
- 
+  <dependencies>
   <!-- https://mvnrepository.com/artifact/org.testng/testng -->
 <dependency>
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
     <version>6.14.3</version>
     <scope>test</scope>
-    
 </dependency>
   
   <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-server -->
@@ -21,15 +19,15 @@
     <artifactId>selenium-server</artifactId>
     <version>3.141.59</version>
 </dependency>
-
-<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
+  
+  <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
 <dependency>
     <groupId>io.github.bonigarcia</groupId>
     <artifactId>webdrivermanager</artifactId>
     <version>4.4.3</version>
 </dependency>
-
-<!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
+  
+  <!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
 <dependency>
     <groupId>commons-io</groupId>
     <artifactId>commons-io</artifactId>
@@ -40,20 +38,8 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
-    <version>3.9</version>
+    <version>4.1.2</version>
 </dependency>
-
-  
- </dependencies>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+   
+  </dependencies>
 </project>
